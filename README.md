@@ -1,4 +1,4 @@
-# ToDo App
+# [ToDo App](https://tsinik2508.github.io/todo-app/)
 
 Это простое приложение для управления списком задач, разработанное с использованием TypeScript, React и React Hooks. Приложение позволяет добавлять задачи, отмечать их как выполненные и очищать списки задач.
 
@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/yourusername/todo-app.git
+    git clone git@github.com:TsiNik2508/todo-app.git
     ```
 2. Перейдите в директорию проекта:
     ```sh
